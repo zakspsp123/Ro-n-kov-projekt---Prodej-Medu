@@ -4,7 +4,9 @@ K projektu je k dispozici testovací databáze s nějakými produkty a testovac�
 testovací účty:
 bohdan.macek@office365.spspzlin.cz
 test123
+
 camabar646@mfyax.com
 test123
+
 zoltumerza@gufum.com
 test123
